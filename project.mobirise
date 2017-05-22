@@ -1,0 +1,1250 @@
+{
+  "settings": {
+    "name": "Gomera Art",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 23,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-500px-500x500-93-128x128.png",
+    "noImageResize": "",
+    "cookiesAlert": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "GomeraArt",
+        "meta_descr": "Art and photography inspired from the island of La Gomera...",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "30px",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#d9534f"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#d8d4d1"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#cfcac6"
+            },
+            ".navbar-toggler": {
+              "color": "#d9534f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-3",
+          "_params": {
+            "bgColor": "#d8d4d1",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#d9534f",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-500px-500x500-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://gomeraart.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.gomeraart.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gomera Art</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-image-slider mbr-iconfont mbr-iconfont-btn\"></span>gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vallegranrey.html\">Valle Gran Rey</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"argaga.html\">Argaga</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fortaleza.html\">La Fortaleza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sunset.html\">Sunset in the Clouds</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sansebastian.html\">San Sebastian</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">La Gomera Paintings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://instagram.com/gomeraart\" aria-expanded=\"false\" target=\"_blank\"><span class=\"mbri-photo mbr-iconfont mbr-iconfont-btn\"></span>instagram</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://redbubble.com/people/gomeraart\" aria-expanded=\"false\" target=\"_blank\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>store</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#d9534f",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            "P": {
+              "color": "#e6e0dc",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "header4-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/elcedro-2000x3555.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "La Gomera",
+          "text": "A small island in the Atlantic where nature still rules. An island that keeps a weird attraction to the people who have visited it. An island that helped conjure the paintings and photos in the <a href=\"index.html#slider-2\" class=\"text-warning\">gallery</a> and on <a href=\"http://instagram.com/gomeraart\" class=\"text-warning\" target=\"_blank\">instagram</a> and also in our <a href=\"http://www.redbubble.com/people/gomeraart\" target=\"_blank\">store</a>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">For MAC</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "color": "#d9534f"
+            },
+            "P": {
+              "color": "#d8d4d1",
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/aftertherainvallegranrey-2000x1125.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Valle Gran Rey",
+                "showText": true,
+                "text": "A small town on the south-west of the island...",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"vallegranrey.html\" data-toolbar=\"-mbrBtnMove\">visit</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-7-2000x1125.jpg",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Argaga",
+                "showText": true,
+                "text": "A hidden valley close to Valle Gran Rey...",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"argaga.html\" data-toolbar=\"-mbrBtnMove\">visit</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-1-2000x1284.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "La Fortaleza",
+                "showText": true,
+                "text": "A steep flat-topped mountain with an important history for the native Gomeros..<span style=\"line-height: 1.5;\">.</span><br>",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"fortaleza.html\" data-toolbar=\"-mbrBtnMove\">visit</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-1733-2000x1125.jpg",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Sunset Above La Gomera",
+                "showText": true,
+                "text": "The sun setting in a sea of clouds above La Gomera..<span style=\"line-height: 1.5;\">.</span><br>",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"sunset.html\" data-toolbar=\"-mbrBtnMove\">visit</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/dsc-11-2000x1125.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "San Sebastian",
+                "showText": true,
+                "text": "The capital of the island...",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"sansebastian.html\" data-toolbar=\"-mbrBtnMove\">visit</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/laplayadusk-2000x3555.jpg",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Gomera Paintings",
+                "showText": true,
+                "text": "Paintings inspired by scenes on La Gomera...",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"paintings.html\" data-toolbar=\"-mbrBtnMove\">visit</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-2",
+          "articleLayout": false
+        }
+      ]
+    },
+    "vallegranrey.html": {
+      "settings": {
+        "title": "Valle Gran Rey",
+        "meta_descr": "Photos from the sleepy town on the south-west of the island of La Gomera..."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "30px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#d9534f"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#d8d4d1"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#cfcac6"
+            },
+            ".navbar-toggler": {
+              "color": "#d9534f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-4",
+          "_params": {
+            "bgColor": "#d8d4d1",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#d9534f",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-500px-500x500-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://gomeraart.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.gomeraart.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gomera Art</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-image-slider mbr-iconfont mbr-iconfont-btn\"></span>gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vallegranrey.html\">Valle Gran Rey</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"argaga.html\">Argaga</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fortaleza.html\">La Fortaleza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sunset.html\">Sunset in the Clouds</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sansebastian.html\">San Sebastian</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">La Gomera Paintings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://instagram.com/gomeraart\" aria-expanded=\"false\"><span class=\"mbri-photo mbr-iconfont mbr-iconfont-btn\"></span>instagram</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://redbubble.com/people/gomeraart\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>store</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "P": {
+              "color": "#d9534f"
+            },
+            "H1": {
+              "color": "#d9534f"
+            }
+          },
+          "_anchor": "header2-6",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "bgColor": "#d8d4d1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "Valle Gran Rey",
+          "text": "A small town on the south-west of the island growing out of a steep ravine and out towards the sea and still maintains its farming and fishing heritage. With neighbourhoods like Charco del Conde, the counts puddle, Lomo del Balo, spine of baa or bleat, Valle Gran Rey, or the valley of the great king has names that could come from \"Game of Thrones\", but is in the winter time is a peaceful gathering place from hippies from all over europe, who at sunset play drums on the beach.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/aftertherainvallegranrey-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/aftertherainvallegranrey-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/lamericaincloudsvallegranrey-2000x1166-800x466.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lamericaincloudsvallegranrey-2000x1166.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/sunsetvallegranrey-2000x1134-800x453.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sunsetvallegranrey-2000x1134.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/eveningvallegranrey-2000x1130-800x452.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eveningvallegranrey-2000x1130.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/bonfirevallegranrey-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bonfirevallegranrey-2000x3555.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/feetonbeachvallegranrey-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/feetonbeachvallegranrey-2000x3555.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/roadvallegranrey-2000x3546-800x1418.jpg",
+                "image": "@PROJECT_PATH@/assets/images/roadvallegranrey-2000x3546.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/pathtolamerica-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pathtolamerica-2000x3555.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/sunsetplayainglesvallegranrey-2000x1142-800x456.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sunsetplayainglesvallegranrey-2000x1142.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/sunsetbabybeachvallegranrey-2000x1135-800x454.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sunsetbabybeachvallegranrey-2000x1135.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/sunsetlamericavallegranrey-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sunsetlamericavallegranrey-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/viewtouppervallegranrey-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/viewtouppervallegranrey-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/asunsetlamerica-2000x1134-800x453.jpg",
+                "image": "@PROJECT_PATH@/assets/images/asunsetlamerica-2000x1134.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/uppervallegranreyfromlamerica-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/uppervallegranreyfromlamerica-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/duskvallegranrey-2000x1126-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/duskvallegranrey-2000x1126.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/laplayavallegranrey-2000x1133-800x453.jpg",
+                "image": "@PROJECT_PATH@/assets/images/laplayavallegranrey-2000x1133.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/uppervallegranreyinmist-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/uppervallegranreyinmist-2000x3555.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/sunsetinvallegranrey-2000x1136-800x454.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sunsetinvallegranrey-2000x1136.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/vallegranrey-2000x1129-800x451.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vallegranrey-2000x1129.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/duskinvallegranrey-2000x1127-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/duskinvallegranrey-2000x1127.jpg",
+                "active": true
+              }
+            ],
+            "bgColor": "#d8d4d1",
+            "showBullets": true
+          },
+          "_anchor": "gallery1-7",
+          "articleLayout": false
+        }
+      ]
+    },
+    "fortaleza.html": {
+      "settings": {
+        "title": "La Fortaleza",
+        "meta_descr": "Photos from the steep flat-topped mountain of La Fortaleza..."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "30px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#d9534f"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#d8d4d1"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#cfcac6"
+            },
+            ".navbar-toggler": {
+              "color": "#d9534f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-8",
+          "_params": {
+            "bgColor": "#d8d4d1",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#d9534f",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-500px-500x500-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://gomeraart.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.gomeraart.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gomera Art</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-image-slider mbr-iconfont mbr-iconfont-btn\"></span>gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vallegranrey.html\">Valle Gran Rey</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"argaga.html\">Argaga</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fortaleza.html\">La Fortaleza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sunset.html\">Sunset in the Clouds</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sansebastian.html\">San Sebastian</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">La Gomera Paintings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://instagram.com/gomeraart\" aria-expanded=\"false\"><span class=\"mbri-photo mbr-iconfont mbr-iconfont-btn\"></span>instagram</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://redbubble.com/people/gomeraart\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>store</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "P": {
+              "color": "#d9534f"
+            },
+            "H1": {
+              "color": "#d9534f"
+            }
+          },
+          "_anchor": "header2-9",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "bgColor": "#d8d4d1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "La Fortaleza",
+          "text": "The path up the mountain of La Fortaleza is narrow with steep drops, but as you reach the top you are greeted with wonderful views in all directions. The flat-topped mountain that has had a history for the indigenous Gomeros of being both a ceremonial ground for the god of Orahan and a place of protection as the spanish, first led by Jean de Bethencourt, undertook their conquest of the Canary Islands and the genocide of the indigenous Guanches. La Gomera was the last of the islands being conquered in 1450.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1-2000x3555.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-4-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4-2000x3555.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-5-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-5-2000x3555.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2-2000x3555.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/valleybeneathlafortaleza-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/valleybeneathlafortaleza-2000x3555.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-6-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-6-2000x3555.jpg",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-3-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-3-2000x3555.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-7-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-7-2000x3555.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-4-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x1156-800x462.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1156.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x1153-800x461.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1153.jpg",
+                "active": false
+              }
+            ],
+            "bgColor": "#d8d4d1",
+            "showBullets": true
+          },
+          "_anchor": "gallery1-a",
+          "articleLayout": false
+        }
+      ]
+    },
+    "argaga.html": {
+      "settings": {
+        "title": "Argaga",
+        "meta_descr": "Photos from the valley of Argaga..."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "30px",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#d9534f"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#d8d4d1"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#cfcac6"
+            },
+            ".navbar-toggler": {
+              "color": "#d9534f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-b",
+          "_params": {
+            "bgColor": "#d8d4d1",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#d9534f",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-500px-500x500-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://gomeraart.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.gomeraart.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gomera Art</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-image-slider mbr-iconfont mbr-iconfont-btn\"></span>gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vallegranrey.html\">Valle Gran Rey</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"argaga.html\">Argaga</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fortaleza.html\">La Fortaleza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sunset.html\">Sunset in the Clouds</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sansebastian.html\">San Sebastian</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">La Gomera Paintings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://instagram.com/gomeraart\" aria-expanded=\"false\"><span class=\"mbri-photo mbr-iconfont mbr-iconfont-btn\"></span>instagram</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://redbubble.com/people/gomeraart\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>store</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "P": {
+              "color": "#d9534f"
+            },
+            "H1": {
+              "color": "#d9534f"
+            }
+          },
+          "_anchor": "header2-c",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "bgColor": "#d8d4d1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "Argaga",
+          "text": ".",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x1044-800x417.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1044.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-7-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-7-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1305-2000x1126-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1305-2000x1126.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-6-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-6-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x1137-800x454.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1137.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-5-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-5-2000x1125.jpg",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x3552-800x1420.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x3552.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-8-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-8-2000x3555.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x3527-800x1410.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x3527.jpg",
+                "active": false
+              }
+            ],
+            "bgColor": "#d8d4d1",
+            "showBullets": true
+          },
+          "_anchor": "gallery1-d",
+          "articleLayout": false
+        }
+      ]
+    },
+    "sansebastian.html": {
+      "settings": {
+        "title": "San Sebastian",
+        "meta_descr": "Photos from San Sebastian, the capital of La Gomera..."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "30px",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#d9534f"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#d8d4d1"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#cfcac6"
+            },
+            ".navbar-toggler": {
+              "color": "#d9534f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-e",
+          "_params": {
+            "bgColor": "#d8d4d1",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#d9534f",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-500px-500x500-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://gomeraart.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.gomeraart.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gomera Art</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-image-slider mbr-iconfont mbr-iconfont-btn\"></span>gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vallegranrey.html\">Valle Gran Rey</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"argaga.html\">Argaga</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fortaleza.html\">La Fortaleza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sunset.html\">Sunset in the Clouds</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sansebastian.html\">San Sebastian</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">La Gomera Paintings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://instagram.com/gomeraart\" aria-expanded=\"false\"><span class=\"mbri-photo mbr-iconfont mbr-iconfont-btn\"></span>instagram</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://redbubble.com/people/gomeraart\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>store</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "P": {
+              "color": "#d9534f"
+            },
+            "H1": {
+              "color": "#d9534f"
+            }
+          },
+          "_anchor": "header2-f",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "bgColor": "#d8d4d1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "San Sebastian",
+          "text": ".",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-9-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-9-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x1140-800x456.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1140.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-10-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-10-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x1248-800x499.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1248.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-11-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-11-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x1128-800x451.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1128.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-8-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-8-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1-2000x3527-800x1410.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1-2000x3527.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x3521-800x1408.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x3521.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x3524-800x1409.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x3524.jpg",
+                "active": true
+              }
+            ],
+            "bgColor": "#d8d4d1",
+            "showBullets": true
+          },
+          "_anchor": "gallery1-g",
+          "articleLayout": false
+        }
+      ]
+    },
+    "sunset.html": {
+      "settings": {
+        "title": "Sunset Above La Gomera",
+        "meta_descr": "Photos from the sun setting above La Gomera..."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "30px",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#d9534f"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#d8d4d1"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#cfcac6"
+            },
+            ".navbar-toggler": {
+              "color": "#d9534f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-h",
+          "_params": {
+            "bgColor": "#d8d4d1",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#d9534f",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-500px-500x500-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://gomeraart.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.gomeraart.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gomera Art</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-image-slider mbr-iconfont mbr-iconfont-btn\"></span>gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vallegranrey.html\">Valle Gran Rey</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"argaga.html\">Argaga</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fortaleza.html\">La Fortaleza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sunset.html\">Sunset in the Clouds</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sansebastian.html\">San Sebastian</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">La Gomera Paintings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://instagram.com/gomeraart\" aria-expanded=\"false\"><span class=\"mbri-photo mbr-iconfont mbr-iconfont-btn\"></span>instagram</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://redbubble.com/people/gomeraart\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>store</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "P": {
+              "color": "#d9534f"
+            },
+            "H1": {
+              "color": "#d9534f"
+            }
+          },
+          "_anchor": "header2-i",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "bgColor": "#d8d4d1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "Sunset Above La Gomera",
+          "text": ".",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1732-2000x1138-800x455.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1732-2000x1138.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1734-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1734-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1735-2000x1155-800x462.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1735-2000x1155.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1736-2000x1140-800x456.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1736-2000x1140.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1729-2000x1141-800x456.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1729-2000x1141.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1730-2000x1140-800x456.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1730-2000x1140.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1733-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1733-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1737-2000x1129-800x451.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1737-2000x1129.jpg",
+                "active": true
+              }
+            ],
+            "bgColor": "#d8d4d1",
+            "showBullets": true
+          },
+          "_anchor": "gallery1-j",
+          "articleLayout": false
+        }
+      ]
+    },
+    "paintings.html": {
+      "settings": {
+        "title": "Gomera Paintings",
+        "meta_descr": "Paintings inspired by scenes on La Gomera..."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "30px",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#d9534f"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#d8d4d1"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#cfcac6"
+            },
+            ".navbar-toggler": {
+              "color": "#d9534f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-k",
+          "_params": {
+            "bgColor": "#d8d4d1",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#d9534f",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-500px-500x500-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://gomeraart.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.gomeraart.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gomera Art</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-image-slider mbr-iconfont mbr-iconfont-btn\"></span>gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vallegranrey.html\">Valle Gran Rey</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"argaga.html\">Argaga</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fortaleza.html\">La Fortaleza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sunset.html\">Sunset in the Clouds</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sansebastian.html\">San Sebastian</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"paintings.html\">La Gomera Paintings</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://instagram.com/gomeraart\" aria-expanded=\"false\"><span class=\"mbri-photo mbr-iconfont mbr-iconfont-btn\"></span>instagram</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://redbubble.com/people/gomeraart\" aria-expanded=\"false\"><span class=\"mbri-shopping-basket mbr-iconfont mbr-iconfont-btn\"></span>store</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "P": {
+              "color": "#d9534f"
+            },
+            "H1": {
+              "color": "#d9534f"
+            }
+          },
+          "_anchor": "header2-l",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "bgColor": "#d8d4d1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "Gomera Paintings",
+          "text": ".",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/elcedro-1-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/elcedro-1-2000x3555.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/garajonaymist-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/garajonaymist-2000x3555.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/lamericaruin-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lamericaruin-2000x3555.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/laplayaboathouse-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/laplayaboathouse-2000x3555.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/laplayadusk-1-2000x3555-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/laplayadusk-1-2000x3555.jpg",
+                "active": true
+              }
+            ],
+            "bgColor": "#d8d4d1",
+            "showBullets": true
+          },
+          "_anchor": "gallery1-m",
+          "articleLayout": false
+        }
+      ]
+    }
+  }
+}
